@@ -120,9 +120,7 @@ This project reflects real operational challenges in Nigerian retail environment
 **Emmanuel (sky)**  
 *DevOps Engineer*  
 
-Founder and CEO of **Lumanex Solutions**, a technology consultancy 
-
-focused on cloud infrastructure, DevOps automation, cost-efficient cloud systems, and scalable digital platforms for growing businesses.
+Founder and CEO of **Lumanex Solutions**, a technology consultancy focused on cloud infrastructure, DevOps automation, cost-efficient cloud systems, and scalable digital platforms for growing businesses.
 
 
 
