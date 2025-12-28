@@ -117,7 +117,7 @@ This project reflects real operational challenges in Nigerian retail environment
 
 ## Author
 
-**Emmanuel Ulu**  
+**Emmanuel (sky)**  
 *DevOps Engineer*  
 
 Founder and CEO of **Lumanex Solutions**, a technology consultancy focused on cloud infrastructure, DevOps automation, and scalable digital platforms for growing businesses.
