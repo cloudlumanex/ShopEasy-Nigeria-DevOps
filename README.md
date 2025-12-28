@@ -1,7 +1,7 @@
 # ShopEasy Nigeria-DevOps Portfolio Project
 
 ## Overview
-ShopEasy Nigeria is a real-world DevOps portfolio project that demonstrate how to design, build and operate a scalable, secure,and cost-optimized retail platform tailored to the Nigerian Business environment.
+ShopEasy Nigeria is a real-world DevOps portfolio project that demonstrate how to design, build and operate a scalable, secure, and cost-optimized retail platform tailored to the Nigerian Business environment.
 
 This project focuses on solving common challenges faced by Nigerian retail companies, such as:
 
