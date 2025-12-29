@@ -3,6 +3,9 @@
 ## Overview
 ShopEasy Nigeria is a real-world DevOps project that demonstrate how to design, build and operate a scalable, secure, and cost-optimized retail platform tailored to the Nigerian Business environment.
 
+## Architectural Drawing
+<img width="1206" height="755" alt="Image" src="https://github.com/user-attachments/assets/43baa14e-3df4-4772-b243-89660d84ea8b" />
+
 This project focuses on solving common challenges faced by Nigerian retail companies, such as:
 
 - Downtime during high-traffic sales
@@ -55,7 +58,7 @@ users -> Load Balancer -> Web Application -> Backend APIs -> Database
 
 Github -> CI/CD Pipeline -> Container Registory -> Production Environment
 
-A detailed architectural diagram will be added in the /docs directory
+
 
 ## Technology Stack
 
