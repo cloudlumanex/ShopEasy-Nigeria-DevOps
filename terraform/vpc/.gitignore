@@ -1,0 +1,51 @@
+# -----------------------------
+# Terraform state files
+# -----------------------------
+*.tfstate
+*.tfstate.backup
+
+# Local .terraform directories (provider plugins, cache)
+.terraform/
+
+# Crash logs
+crash.log
+
+# Override files
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# CLI configuration files
+.terraformrc
+terraform.rc
+
+# -----------------------------
+# Sensitive files
+# -----------------------------
+# AWS credentials or other secret files
+*.tfvars
+*.tfvars.json
+
+# -----------------------------
+# IDE / OS files
+# -----------------------------
+# VSCode
+.vscode/
+
+# JetBrains / IntelliJ
+.idea/
+
+# Vim / swap
+*.swp
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# -----------------------------
+# Keep the Terraform lock file committed
+# -----------------------------
+!terraform.lock.hcl
