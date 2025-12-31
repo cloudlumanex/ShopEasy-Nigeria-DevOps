@@ -4,6 +4,22 @@
 *.tfstate
 *.tfstate.backup
 
+# Terraform state files
+*.tfstate
+*.tfstate.*
+*.backup
+
+# Terraform lock file
+*.terraform.lock.hcl
+
+# Local Terraform directories
+.terraform/
+
+# Sensitive variable files
+*.tfvars
+*.tfvars.json
+
+
 # Local .terraform directories (provider plugins, cache)
 .terraform/
 
